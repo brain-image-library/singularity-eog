@@ -1,0 +1,17 @@
+Bootstrap: docker
+From: debian:bookworm
+
+%labels
+    MAINTAINER icaoberg
+    EMAIL icaoberg@psc.edu
+    MAINTAINER help@psc.edu
+    WEBSITE http://www.github.com/icaoberg/singularity-eog
+    COPYRIGHT Copyright 2024 Pittsburgh Supercomputing Center. All Rights Reserved. 
+    VERSION 43.2
+
+%post
+    apt-get update
+    apt-get install -y eog
+
+%runscript
+    eog "$@"
