@@ -1,9 +1,9 @@
-![Status](https://github.com/brain-image-library/singularity-boxes/actions/workflows/main.yml/badge.svg)
-![Status](https://github.com/brain-image-library/singularity-boxes/actions/workflows/pretty.yml/badge.svg)
-![Issue](https://img.shields.io/github/issues/brain-image-library/singularity-boxes)
-![forks](https://img.shields.io/github/forks/brain-image-library/singularity-boxes)
-![Stars](https://img.shields.io/github/stars/brain-image-library/singularity-boxes)
-![License](https://img.shields.io/github/license/brain-image-library/singularity-boxes)
+![Status](https://github.com/brain-image-library/singularity-eog/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/brain-image-library/singularity-eog/actions/workflows/pretty.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/brain-image-library/singularity-eog)
+![forks](https://img.shields.io/github/forks/brain-image-library/singularity-eog)
+![Stars](https://img.shields.io/github/stars/brain-image-library/singularity-eog)
+![License](https://img.shields.io/github/license/brain-image-library/singularity-eog)
 
 # singularity-eog
 Singularity recipe for [eog](https://help.gnome.org/users/eog/stable/).
